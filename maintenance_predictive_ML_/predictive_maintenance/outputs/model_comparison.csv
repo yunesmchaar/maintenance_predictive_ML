@@ -1,0 +1,5 @@
+Modèle,MAE,RMSE,R²
+Random Forest,8.74,13.5,0.893
+XGBoost,8.86,13.3,0.8962
+Gradient Boosting,8.93,13.45,0.8938
+Ridge (baseline),12.61,15.59,0.8573

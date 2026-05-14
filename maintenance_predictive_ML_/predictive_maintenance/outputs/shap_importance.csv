@@ -1,0 +1,21 @@
+Feature,Importance SHAP
+cycle_norm,30.9824
+sensor_4_mean10,1.9086
+sensor_14_ratio,1.1598
+sensor_9_ratio,0.9818
+sensor_2_mean10,0.6707
+sensor_2_ratio,0.6084
+sensor_12_ratio,0.5164
+sensor_8_ratio,0.4422
+sensor_11_mean10,0.4298
+sensor_9_min10,0.3748
+sensor_4_ratio,0.3681
+sensor_14_max10,0.3668
+sensor_7_min10,0.3655
+sensor_21_mean10,0.3572
+sensor_11_ratio,0.3561
+sensor_2,0.343
+sensor_17_ratio,0.3402
+sensor_4_max10,0.3387
+sensor_9_mean10,0.3356
+sensor_2_max10,0.3347
